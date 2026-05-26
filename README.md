@@ -19,7 +19,6 @@
 ```python
 developer = {
     "name"      : "김동현 (Donghyun Kim)",
-    "university": "원광대학교 컴퓨터공학과",
     "company"   : "티엠에스솔루션 — AX-BizCare 플랫폼",
     "role"      : "FastAPI 백엔드 개발",
     "contact"   : "ddayhyun1121@gmail.com",
