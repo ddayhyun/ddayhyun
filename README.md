@@ -17,14 +17,7 @@
 ## 👋 안녕하세요, 김동현입니다!
 
 ```python
-developer = {
-    "name"      : "김동현 (Donghyun Kim)",
-    "company"   : "티엠에스솔루션 — AX-BizCare 플랫폼",
-    "role"      : "FastAPI 백엔드 개발",
-    "contact"   : "ddayhyun1121@gmail.com",
-    "github"    : "github.com/ddayhyun",
-    "status"    : "🚀 현재 개발 중...",
-}
+
 ```
 
 ---
